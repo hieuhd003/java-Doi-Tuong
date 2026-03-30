@@ -1,0 +1,8 @@
+//đẩy code lên github
+git init
+duong link github "git remote add origin https://github.com/hieuhd003/java-Doi-Tuong.git"
+git remote -v
+git add .
+git commit -m "first"
+git remote add origin URL
+git push -u origin main
