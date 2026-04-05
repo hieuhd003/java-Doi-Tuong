@@ -16,6 +16,10 @@ class Student{
         System.out.println("Name: " + name);
         System.out.print("Age: " + age);
     }
+    public void input(Scanner sc) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'input'");
+    }
 }
 
 public class Bai1{
